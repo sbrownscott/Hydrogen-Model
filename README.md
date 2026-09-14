@@ -75,8 +75,11 @@ measurements gives approximately:
 ## Files
 
 Field_data_log.csv - Input file from Ruby 
+
 H2_Bind_All.csv - Comparison file from Ruby
+
 Hydrogen_Uptake_Model.py - Main model
+
 flux_comparison.py - Plots the model error (diff between model and field) against some of the they variables
 
 ## References
