@@ -72,6 +72,13 @@ measurements gives approximately:
 - MAE: 12.35 μmol H₂ m⁻² s⁻¹
 - RMSE: 16.57 μmol H₂ m⁻² s⁻¹
 
+## Files
+
+Field_data_log.csv - Input file from Ruby 
+H2_Bind_All.csv - Comparison file from Ruby
+Hydrogen_Uptake_Model.py - Main model
+flux_comparison.py - Plots the model error (diff between model and field) against some of the they variables
+
 ## References
 
 Bertagni, M.B., Paulot, F. and Porporato, A., 2021. Moisture fluctuations modulate abiotic and biotic limitations of H2 soil uptake. Global Biogeochemical Cycles, 35(12), p.e2021GB006987.
